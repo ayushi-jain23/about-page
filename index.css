@@ -1,0 +1,339 @@
+body{
+    padding: 0;
+    margin: 0 ;
+}
+
+
+/* div1 */
+body .about-page .grey-bg{
+    background-image: url("https://uploads-ssl.webflow.com/5e58c8dd1c2c937dfad1ea50/5e5fa42d87322503ed570409_about-hero-img.png");
+    width: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #e9e9e9;
+    padding-bottom: 0.2%;
+}
+body .about-page .grey-bg .nav-tab{
+    text-align: right;
+}
+body .about-page .grey-bg .nav-tab a{
+    font-size: 12px;
+    text-decoration: none;
+    color: #6b6b6b;
+    letter-spacing: 2px;
+    font-family: Arial,sans-serif;
+    padding: 2% 0 0 1.6%;
+}
+body .about-page .grey-bg .nav-tab img{
+    width: 4.9%;
+    vertical-align: -45px;
+    padding: 0 3% 0 2%;
+}
+body .about-page .grey-bg .intro{
+    width: 34%;
+    margin-top: 10%;
+    float: right;
+    margin-right: 6%;
+}
+body .about-page .grey-bg .intro .we{
+    font-family: 'Miriam Libre',sans-serif;
+    color: #f22855;
+    font-size: 32px;
+    line-height: 36px;
+    letter-spacing: 1px;
+}
+body .about-page .grey-bg .intro .tech{
+    font-family: 'Miriam Libre',sans-serif;
+    color: #000;
+    font-size: 45px;
+    line-height: 55px;
+    padding-bottom: 2%;
+}
+body .about-page .grey-bg .intro .in{
+    font-family: 'Work Sans',sans-serif;
+    font-size: 16px;
+    line-height: 31px;
+    letter-spacing: 2px;
+    color: #6b6b6b;
+}
+body .about-page .grey-bg .we-are-team{
+    font-family: 'Miriam Libre',sans-serif;
+    font-size: 44px;
+    line-height: 99%;
+    color: #ed2759;
+    font-weight: 600;
+    width: 80%;
+    margin: auto;
+    padding-top: 34%;
+}
+body .about-page .grey-bg .STD{
+    font-family: 'Miriam Libre',sans-serif;
+    color: #000;
+    font-size: 36px;
+    line-height: 45px;
+    text-align: center;
+    margin-top: 3.5%;
+    margin-bottom: 10.5%;
+}
+body .about-page .grey-bg .STD span{
+    background-image: url("https://uploads-ssl.webflow.com/5e58c8dd1c2c937dfad1ea50/5e5ff48a87f2844a4b7ad17b_wave.png");
+    background-size: 440px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: -70px;
+    padding: 0 150px 110px 150px;
+}
+body .about-page .grey-bg .table{
+    text-align: center;
+    line-height: 26px;
+    font-family: 'Work Sans',sans-serif;
+    color: #333;
+    font-size: 12px;
+    margin: auto;
+    width: 82%;
+}
+body .about-page .grey-bg .table td{
+    width: 1%;
+}
+body .about-page .grey-bg .skill-pool{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Work Sans',sans-serif;
+    color: #000;
+    line-height: 1em;
+    font-weight: 400;
+    margin-top: -0.5%;
+}
+body .about-page .grey-bg .numbers-div-bg-pic{
+    background-image: url("https://uploads-ssl.webflow.com/5e58c8dd1c2c937dfad1ea50/5e60a72f6f0e6841428f7988_Group%2014.png");
+    background-size: 54.7%;
+    background-repeat: no-repeat;
+    margin-top: 4.9%;
+}
+body .about-page .grey-bg .numbers-div-bg-pic .content{
+    padding-top: 23.5%;
+    padding-bottom: 24.6%;
+}
+body .about-page .grey-bg .numbers-div-bg-pic .content .numbers{
+    color: #f22855;
+    border: 1px solid #e9e9e9;
+    font-size: 45px;
+    line-height: 50px;
+    font-family: 'Gothic A1',sans-serif;
+    margin: 150px 0 100px 40px;
+    padding: 15px 10px 15px 20px;
+}
+body .about-page .grey-bg .numbers-div-bg-pic .content p{
+    line-height: 40px;
+    font-family: 'Miriam Libre',sans-serif;
+    color: #000;
+    font-size: 36px;
+    width: 31%;
+    float: right;
+    margin: -2% 10% 0 0;
+
+}
+body .about-page .grey-bg .numbers-div-bg-pic .content a{
+    color: #f22855;
+}
+body .about-page .tilted-grey-line{
+    background-image: url("https://uploads-ssl.webflow.com/5e58c8dd1c2c937dfad1ea50/5e61fdc47b1e8370fed2b932_services-slant.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 10%;
+    margin-top: -1.6%;
+}
+
+
+/* div2 */
+body .about-page .pink-img{
+    background-image: url("https://uploads-ssl.webflow.com/5e58c8dd1c2c937dfad1ea50/5e60e45324dc440872062c78_about%205.png");
+    background-size: 96.5%;
+    background-repeat: no-repeat;
+    margin-top: 6.3%;
+    padding-bottom: 17%;
+}
+body .about-page .pink-img p{
+    font-family: 'Miriam Libre',sans-serif;
+    color: #fff;
+    font-size: 25px;
+    line-height: 30px;
+    width: 25%;
+    padding: 20% 0 0 2.5%;
+}
+
+
+/* div3 */
+body .about-page .linkedin-pics{
+    margin: 20.3% 0 9.8% 10.4%;
+}
+body .about-page .linkedin-pics .container{
+    position: relative;
+}
+.linkedin-pics .container .middle{
+    opacity: 0;
+    position: absolute;
+    top: 59%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.container:hover .image{
+    opacity: 0.3;
+}
+.container:hover .middle{
+    opacity: 1;
+}
+.text{
+    color: #6b6b6b;
+    font-size: 14px;
+    line-height: 24px;
+}
+body .about-page .linkedin-pics .name td{
+    font-family: 'Miriam Libre',sans-serif;
+    color: #6b6b6b;
+    font-weight: 600;
+    text-align: center;
+    font-size: 14px;
+    padding-top: 0.7%;
+}
+body .about-page .linkedin-pics .designation{
+    font-family: 'Work Sans',sans-serif;
+    color: #b4b4b4;
+    font-size: 12px;
+    text-align: center;
+}
+body .about-page .linkedin-pics .linkedin-image{
+    text-align: center;
+}
+body .about-page .linkedin-pics .linkedin-image img{
+    width: 30px;
+}
+
+
+/* div4 */
+body .about-page .user-focus{
+    width: 79%;
+    margin: auto;
+}
+body .about-page .user-focus .row1{
+    font-family: 'Miriam Libre',sans-serif;
+    color: #000;
+    font-size: 43px;
+    line-height: 48px;
+    width: 25%;
+}
+body .about-page .user-focus .row2 img{
+    width: 95%;
+}
+body .about-page .user-focus .row3{
+    width: 41%;
+}
+body .about-page .user-focus .row3 .title{
+    font-family: 'Miriam Libre',sans-serif;
+    font-size: 19px;
+    line-height: 28px;
+}
+body .about-page .user-focus .row3 .content p{
+    letter-spacing: 0.5px;
+    font-family: 'Work Sans',sans-serif;
+    color: #b4b4b4;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+
+/* div5 */
+body .about-page .video-upper-part{
+    margin: 9.5% 0 25.5% 10.5%;
+}
+body .about-page .video-upper-part .while{
+    line-height: 28px;
+    width: 247px;
+    font-size: 15px;
+    font-family: 'Miriam Libre',sans-serif;
+    color: #ed2759;
+    font-weight: 700;
+}
+body .about-page .video-upper-part .we-lines{
+    color: dimgray;
+}
+
+
+/* div6 */
+body .about-page .video-part{
+    position: relative
+}
+body .about-page .video-part .video{
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+body .about-page .video-part .uxd-helps{
+    position: absolute;
+    color: #e9e9e9;
+    font-family: 'Miriam Libre',sans-serif;
+    font-size: 32px;
+    line-height: 46px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0 15.9%;
+    top: 80px;
+}
+body .about-page .video-part .box{
+    background-color: white;
+    position: absolute;
+    top: 344px;
+    text-align: center;
+    width: 46%;
+    margin-left: 26%;
+}
+body .about-page .video-part .box .lets{
+    font-size: 50px;
+    font-family: 'Miriam Libre',sans-serif;
+    padding-top: 13.5%;
+}
+body .about-page .video-part .box .hire{
+    color: #000;
+    font-size: 12px;
+    font-family: 'Work Sans',sans-serif;
+    padding-top: -30px;
+}
+body .about-page .video-part .box button{
+    position: absolute;
+    background-color: #f22855;
+    border-radius: 40px;
+    padding: 2.5% 8%;
+    margin: 4% 0 0 21%;
+}
+body .about-page .video-part .box img{
+    margin-top: 4%;
+}
+
+
+/* div7 */
+body .about-page .footer-nav{
+    font-family: 'Work Sans',sans-serif;
+    text-align: center;
+    margin: 22% 0 11% 0;
+}
+body .about-page .footer-nav .line2{
+    margin-top: 1.4%;
+}
+body .about-page .footer-nav a{
+    text-decoration: none;
+    color: #b4b4b4;
+    font-size: 14px;
+    font-family: 'Work Sans',sans-serif;
+    margin: 1%;
+}
+
+
+/* div8 */
+body .about-page .copyright{
+    text-align: center;
+    color: #b4b4b4;
+    font-family: 'Work Sans',sans-serif;
+    font-size: 10px;
+    margin-bottom: 5px
+}
